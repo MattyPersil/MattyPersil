@@ -10,4 +10,4 @@ I'm a <your role/profession> passionate about <your interests>. I love working w
 -  Favorite quote: **I didn't ask how big the room is, i said i cast fireball !**
 
 ### 🛠️ Tech 
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,discord,cpp,github,git,grafana,prometheus,linux,mysql,phpstorm,powershell,py,visualstudio)]
+![My Skills](https://skillicons.dev/icons?i=html,css,php,discord,cpp,github,git,grafana,prometheus,linux,mysql,phpstorm,powershell,py,visualstudio)
