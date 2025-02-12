@@ -2,7 +2,7 @@
 
 ![GitHub Banner](banner.png)
 
-I'm a <your role/profession> passionate about <your interests>. I love working with <technologies you use> and exploring new ways to solve problems with code.
+I'm a CS student and i love learning new languages, softwares and solutions while studying and working on personnal projects at home.
 
 ### 🌲 About Me
 -  I’m currently studying on **CS**
