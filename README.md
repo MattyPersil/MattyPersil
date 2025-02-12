@@ -1,6 +1,6 @@
 ### Hi there, I'm @MattyPersil! 🌿
 
-![GitHub Banner](<your banner image URL>)
+![GitHub Banner](banner.png)
 
 I'm a <your role/profession> passionate about <your interests>. I love working with <technologies you use> and exploring new ways to solve problems with code.
 
